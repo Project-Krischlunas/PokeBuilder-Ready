@@ -1,0 +1,19 @@
+Arceus
+Arceus Fighting
+Arceus Flying
+Arceus Posion
+Arceus Ground
+Arceus Rock
+Arceus Bug
+Arceus Ghost
+Arceus Steel
+Arceus Fire
+Arceus Water
+Arceus Grass
+Arceus Electric
+Arceus Psychic
+Arceus Ice
+Arceus Dragon
+Arceus Dark
+Arceus Fairy
+-999

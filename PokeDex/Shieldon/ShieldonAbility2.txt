@@ -1,0 +1,1 @@
+Soundproof: Unaffected by sound moves. If this Pokémon switches out with Baton Pass, Perish Song against the switched out will not be nullified.

@@ -1,0 +1,1 @@
+Sap Sipper: Attack is raised by one stage when the Pokémon is hit by a Grass-type move. User receives no damage from Grass-type attacks.

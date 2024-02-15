@@ -1,0 +1,1 @@
+Ice Body: HP is restored by 1/16th of maximum HP when its Snowing.

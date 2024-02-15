@@ -1,0 +1,1 @@
+Gluttony: The Pokémon will use a berry when its Hit Points are below 50%.

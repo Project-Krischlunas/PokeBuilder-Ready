@@ -1,0 +1,1 @@
+Oblivious: The Pokémon cannot be under the Attract condition, Intimidated, or be taunted, while having this ability.

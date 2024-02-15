@@ -1,0 +1,1 @@
+Grass Pelt: Increases Defense by 50% when battling on Grass or if the move Grassy Terrain is in effect

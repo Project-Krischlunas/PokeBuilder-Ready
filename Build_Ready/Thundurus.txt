@@ -1,0 +1,30 @@
+Name:Thundurus
+Type:Electric\Flying
+Prankster: Status category moves have their Speed Priority increased by 1. Moves increased by this that are used on Dark-type opponents will fail.
+Serious
+HP:300
+Attak:275
+Defense:200
+Sp.Attack:300
+Sp.Defense:250
+Speed:283
+Base Total:580 
+
+You will need to put in 4 points in HP EVs
+You will need 0 HP Up and 4 Health Feather to get 300 points in HP.
+
+You will need to put in 36 points in Attack EVs
+You will need 3 Protein and 6 Muscle Feather to get 275 points in Attack.
+
+You will need to put in 96 points in Defense EVs
+You will need 9 Iron and 6 Resist Feather to get 200 points in Defense.
+
+You will need to put in 56 points in Sp.Attack EVs
+You will need 5 Calcium and 6 Genius Feather to get 300 points in Sp.Attack.
+
+You will need to put in 216 points in Sp.Defense EVs
+You will need 21 Zinc and 6 Cleaver Feather to get 250 points in Sp.Defense.
+
+You will need to put in 100 points in Speed EVs
+You will need 10 Carbos and 0 Swift Feather to get 283 points in Speed.
+

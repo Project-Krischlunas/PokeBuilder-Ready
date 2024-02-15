@@ -1,0 +1,1 @@
+Primordial Sea: Creates the Heavy Rain weather. This lasts until the Pokémon exits battle, and renders Fire-type moves useless

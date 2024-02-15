@@ -1,0 +1,1 @@
+Water Bubble: Decreases Fire-type move power on the Pokémon by 50%. Increases power of Water-type moves used by the Pokémon by 100% before adding STAB. Prevents Burn

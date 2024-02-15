@@ -1,0 +1,1 @@
+Hyper Cutter: Opponent cannot lower this Pokémon’s Attack value. This Pokémon may still lower its own Attack value using a move of by itself.

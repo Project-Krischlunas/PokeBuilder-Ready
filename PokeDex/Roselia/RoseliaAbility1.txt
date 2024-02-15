@@ -1,0 +1,1 @@
+Natural Cure: The Pokémon’s status (BURN, PARALYZE, SLEEP, POISON, FREEZE) is healed when withdrawn from battle.

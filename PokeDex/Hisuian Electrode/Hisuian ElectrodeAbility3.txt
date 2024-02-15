@@ -1,0 +1,1 @@
+Aftermath: The foe that dealt the final hit loses 1/4 of its maximum HP if the move made physical contact.

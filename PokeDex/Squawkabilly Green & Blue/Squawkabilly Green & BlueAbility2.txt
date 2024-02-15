@@ -1,0 +1,1 @@
+Hustle: Damage from physical attacks is increased by 50%, but average accuracy is only 80%.

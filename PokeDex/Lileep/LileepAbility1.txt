@@ -1,0 +1,1 @@
+Suction Cups: Negates moves that force switching out.

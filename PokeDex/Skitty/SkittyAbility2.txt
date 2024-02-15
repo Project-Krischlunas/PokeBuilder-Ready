@@ -1,0 +1,1 @@
+Normalize: All moves known by the Pokémon turn into Normal-type and have a boost in power of 20%.

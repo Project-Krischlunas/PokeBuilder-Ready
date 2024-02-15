@@ -1,0 +1,1 @@
+Sand Force: Ground-type, Rock-type & Steel-type moves have their power increased by 30% in a Sandstorm and will not receive damage

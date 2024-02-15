@@ -1,0 +1,5 @@
+Deoxys
+Attack Deoxys
+Defense Deoxys
+Speed Deoxys
+-999

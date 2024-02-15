@@ -1,0 +1,1 @@
+Multitype: Changes the Pokémon's type to match the Plate or Z-Crystal it holds.

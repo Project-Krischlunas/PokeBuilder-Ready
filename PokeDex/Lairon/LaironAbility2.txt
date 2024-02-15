@@ -1,0 +1,1 @@
+Rock Head: Does not receive recoil damage from recoil-causing damages.

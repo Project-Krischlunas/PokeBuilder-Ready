@@ -1,0 +1,30 @@
+Name:volcarona
+Type:Bug\Fire
+Flame Body: The opponent has a 30% chance of being induced with Burn when using an attack, that requires physical contact, against this Pokémon.
+Modest
+HP:350
+Attak:113
+Defense:200
+Sp.Attack:385
+Sp.Defense:256
+Speed:236
+Base Total:550 
+
+You will need to put in 156 points in HP EVs
+You will need 15 HP Up and 6 Health Feather to get 350 points in HP.
+
+You will need to put in 0 points in Attack EVs
+You will need 0 Protein and 0 Muscle Feather to get 113 points in Attack.
+
+You will need to put in 136 points in Defense EVs
+You will need 13 Iron and 6 Resist Feather to get 200 points in Defense.
+
+You will need to put in 176 points in Sp.Attack EVs
+You will need 17 Calcium and 6 Genius Feather to get 385 points in Sp.Attack.
+
+You will need to put in 40 points in Sp.Defense EVs
+You will need 4 Zinc and 0 Cleaver Feather to get 256 points in Sp.Defense.
+
+You will need to put in 0 points in Speed EVs
+You will need 0 Carbos and 0 Swift Feather to get 236 points in Speed.
+

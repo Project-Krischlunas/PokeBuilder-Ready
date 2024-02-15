@@ -1,0 +1,1 @@
+Drizzle: Weather changes to Heavy Rain when the Pokémon enters the battle. As of X & Y, this lasts 5 turns.

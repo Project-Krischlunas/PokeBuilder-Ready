@@ -1,0 +1,1 @@
+Sniper: Power of critical-hit moves is increased to 225% rather than 150%.

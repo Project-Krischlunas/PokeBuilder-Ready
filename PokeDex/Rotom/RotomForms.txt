@@ -1,0 +1,7 @@
+Rotom
+Rotom Frost
+Rotom Heat
+Rotom Mow
+Rotom Fan
+Rotom Wash
+-999

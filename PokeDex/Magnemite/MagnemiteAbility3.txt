@@ -1,0 +1,1 @@
+Analytic: Attack power increases by 30% if the Pokémon is the last Pokémon to attack this turn

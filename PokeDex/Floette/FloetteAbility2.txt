@@ -1,0 +1,1 @@
+Symbiosis: Passes the Pokémon's hold item to its adjacent ally when that ally consumes its hold item

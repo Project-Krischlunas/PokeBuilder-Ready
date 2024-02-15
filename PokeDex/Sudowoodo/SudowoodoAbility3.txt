@@ -1,0 +1,1 @@
+Rattled: Speed is raised by one stage when the Pokémon is hit by a Bug-type, Ghost-type or Dark-type move or is Intimidated

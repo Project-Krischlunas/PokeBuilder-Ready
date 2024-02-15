@@ -1,0 +1,1 @@
+Transistor: Increases the damage inflicted by Electric-type moves by 30%

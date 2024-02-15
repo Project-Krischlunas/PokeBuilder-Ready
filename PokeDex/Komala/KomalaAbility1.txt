@@ -1,0 +1,1 @@
+Comatose: It acts as if it is affected by the Sleep status condition. All special effects of moves based on the Sleep status condition affect this Pokémon such as Snore & Sleep Talk working from the Pokémon with Comatose and double damage from Hex & Wake-up Slap, Dream Eater & Nightmare and even abilities such as Bad Dreams will activate. This Pokémon can still attack.

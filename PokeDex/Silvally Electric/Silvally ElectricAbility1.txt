@@ -1,0 +1,1 @@
+RKS System: Changes the Pokémon's type to match the memory disc it holds.

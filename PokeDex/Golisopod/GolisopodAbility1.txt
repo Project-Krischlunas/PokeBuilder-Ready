@@ -1,0 +1,1 @@
+Emergency Exit: When the Pokémon's Hit Points hit 50% or less, the Pokémon will switch out. Works once per battle. The Pokémon will not switch out if it drops below 50% due to Confusion, Weather, use of Substitute or when the damage inflicted is by a Pokémon with the Sheer Force ability. It will not activate if health is brought back up above 50% due to a hold item

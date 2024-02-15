@@ -1,0 +1,1 @@
+Battle Armor: Opponent’s moves cannot Critical Hit.

@@ -1,0 +1,1 @@
+Weak Armor: When hit by an attack, the Pokémon's Defense is lowered by one stage but Speed is increased by two stages.

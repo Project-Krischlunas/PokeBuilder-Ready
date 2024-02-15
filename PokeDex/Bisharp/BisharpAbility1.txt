@@ -1,0 +1,1 @@
+Defiant: Attack is raised by two stages when the Pokémon has its stats lowered. Doesn't work on self inflicted stat drops or drops from allies

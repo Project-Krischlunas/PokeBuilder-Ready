@@ -1,0 +1,1 @@
+Download: Attack is increased when the foe’s Defense is lower than its Special Defense or increases Special Attack when the foe’s Special Defense is lower than its Defense.

@@ -1,0 +1,1 @@
+Heatproof: Damage from Fire-type moves and the Burn status is halved

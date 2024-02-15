@@ -1,0 +1,1 @@
+Color Change: This Pokémon’s type becomes the type of the last damaging move which hit it.

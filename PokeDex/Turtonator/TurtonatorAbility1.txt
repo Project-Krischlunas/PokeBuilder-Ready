@@ -1,0 +1,1 @@
+Shell Armor: Opponent’s moves cannot Critical Hit.

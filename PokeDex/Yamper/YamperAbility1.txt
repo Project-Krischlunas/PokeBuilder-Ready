@@ -1,0 +1,1 @@
+Ball Fetch: If the Pokémon is not holding an item, it will fetch the Poké Ball from the first failed throw of the battle.

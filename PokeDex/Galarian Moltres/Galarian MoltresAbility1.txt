@@ -1,0 +1,1 @@
+Berserk: Boosts the Pokémon's Sp. Atk stat when it takes a hit that causes its HP to become half or less.

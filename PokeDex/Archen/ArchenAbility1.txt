@@ -1,0 +1,1 @@
+Defeatist: The Pokémon's Attack & Special Attack is halved when its Hit Points are below 50% of maximum

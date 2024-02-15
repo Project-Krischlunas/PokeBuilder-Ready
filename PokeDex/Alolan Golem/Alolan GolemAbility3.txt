@@ -1,0 +1,1 @@
+Galvanize: Increases the power of Normal-type moves by 20%. It then changes those moves to Electric-type.

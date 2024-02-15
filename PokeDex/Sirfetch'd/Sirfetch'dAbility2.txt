@@ -1,0 +1,1 @@
+Scrappy: Allows the Pokémon to hit Ghost-type Pokémon with Normal-type and Fighting-type moves. Blocks Intimidate

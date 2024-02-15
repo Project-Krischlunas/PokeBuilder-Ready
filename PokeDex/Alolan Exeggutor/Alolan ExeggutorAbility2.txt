@@ -1,0 +1,1 @@
+Harvest: The Pokémon has a 50% chance of restoring a consumed berry. During sunshine, this chance increases to 100%

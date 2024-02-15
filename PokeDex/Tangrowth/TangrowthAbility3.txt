@@ -1,0 +1,1 @@
+Regenerator: When the Pokémon switches out of battle, up to 33.3% of its maximum Hit Points are restored

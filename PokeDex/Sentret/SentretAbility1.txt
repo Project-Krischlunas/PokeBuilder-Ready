@@ -1,0 +1,1 @@
+Run Away: Except for trainer battles, can always run from battle. It still cannot switch during Mean Look or Block.

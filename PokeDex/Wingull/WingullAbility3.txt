@@ -1,0 +1,1 @@
+Rain Dish: If Heavy Rain weather is in effect, recovers 1/16th max Hit Points at the end of the turn.

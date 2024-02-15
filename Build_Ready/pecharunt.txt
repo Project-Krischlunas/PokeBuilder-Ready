@@ -1,0 +1,30 @@
+Name:pecharunt
+Type:Posion\Ghost
+Poison Puppeteer: Pokémon poisoned by Pecharunt's moves will also become confused.
+Relaxed
+HP:350
+Attak:212
+Defense:425
+Sp.Attack:212
+Sp.Defense:275
+Speed:191
+Base Total:600 
+
+You will need to put in 132 points in HP EVs
+You will need 13 HP Up and 2 Health Feather to get 350 points in HP.
+
+You will need to put in 0 points in Attack EVs
+You will need 0 Protein and 0 Muscle Feather to get 212 points in Attack.
+
+You will need to put in 124 points in Defense EVs
+You will need 12 Iron and 4 Resist Feather to get 425 points in Defense.
+
+You will need to put in 0 points in Sp.Attack EVs
+You will need 0 Calcium and 0 Genius Feather to get 212 points in Sp.Attack.
+
+You will need to put in 252 points in Sp.Defense EVs
+You will need 25 Zinc and 2 Cleaver Feather to get 275 points in Sp.Defense.
+
+You will need to put in 0 points in Speed EVs
+You will need 0 Carbos and 0 Swift Feather to get 191 points in Speed.
+

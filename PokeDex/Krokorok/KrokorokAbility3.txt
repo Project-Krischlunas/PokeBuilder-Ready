@@ -1,0 +1,1 @@
+Anger Point: Increases Attack to maximum level upon taking a critical hit.

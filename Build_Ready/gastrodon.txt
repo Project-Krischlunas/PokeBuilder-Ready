@@ -1,0 +1,30 @@
+Name:gastrodon
+Type:Water\Ground
+Storm Drain: Water-type moves are drawn to this Pokémon. Water-type moves will do no damage and the Pokémon's SP ATK is raised one stage
+Quite
+HP:426
+Attak:202
+Defense:200
+Sp.Attack:242
+Sp.Defense:236
+Speed:103
+Base Total:475 
+
+You will need to put in 252 points in HP EVs
+You will need 25 HP Up and 2 Health Feather to get 426 points in HP.
+
+You will need to put in 0 points in Attack EVs
+You will need 0 Protein and 0 Muscle Feather to get 202 points in Attack.
+
+You will need to put in 112 points in Defense EVs
+You will need 11 Iron and 2 Resist Feather to get 200 points in Defense.
+
+You will need to put in 0 points in Sp.Attack EVs
+You will need 0 Calcium and 0 Genius Feather to get 242 points in Sp.Attack.
+
+You will need to put in 144 points in Sp.Defense EVs
+You will need 14 Zinc and 4 Cleaver Feather to get 236 points in Sp.Defense.
+
+You will need to put in 0 points in Speed EVs
+You will need 0 Carbos and 0 Swift Feather to get 103 points in Speed.
+

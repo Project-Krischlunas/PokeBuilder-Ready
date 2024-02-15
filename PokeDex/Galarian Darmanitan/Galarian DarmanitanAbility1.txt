@@ -1,0 +1,1 @@
+Gorilla Tactics: Raises the Pokémon's Attack stat by one stage, but locks the Pokémon into using the first attack it uses after being sent out

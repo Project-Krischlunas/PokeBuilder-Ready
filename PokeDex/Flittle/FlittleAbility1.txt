@@ -1,0 +1,1 @@
+Anticipation: Warns when the foe knows 1-hit KO or super-effective moves.

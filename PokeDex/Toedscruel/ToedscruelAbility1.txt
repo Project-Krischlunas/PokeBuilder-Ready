@@ -1,0 +1,1 @@
+Mycelium Might: If the Pokémon uses a Status move, it will move last in the Speed bracket, but its moves aren't affected by the Ability of the target

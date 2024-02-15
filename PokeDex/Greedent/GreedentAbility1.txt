@@ -1,0 +1,1 @@
+Cheek Pouch: Restores HP as well when the Pokémon eats a Berry.

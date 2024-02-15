@@ -1,0 +1,1 @@
+Gale Wings: All Flying-type moves have their Speed Priority increased by 1 if the Pokémon's Hit Points are at maximum

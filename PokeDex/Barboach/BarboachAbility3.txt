@@ -1,0 +1,1 @@
+Hydration: All status problems: Burn, Paralysis, Sleep, Frozen and Poison, are healed when raining.

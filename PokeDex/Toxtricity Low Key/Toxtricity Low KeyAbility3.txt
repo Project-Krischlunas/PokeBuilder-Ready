@@ -1,0 +1,1 @@
+Technician: Moves with a base power of 60 or less are boosted in power by 50%

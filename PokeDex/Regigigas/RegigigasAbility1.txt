@@ -1,0 +1,1 @@
+Slow Start: Attack and Speed is halved during the first five turns since sent out.

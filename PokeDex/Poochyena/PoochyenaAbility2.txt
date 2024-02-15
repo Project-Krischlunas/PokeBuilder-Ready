@@ -1,0 +1,1 @@
+Quick Feet: Speed is increased by 50% when induced with a status (Burn, Poison, Sleep, Frozen & Paralysis). If Paralysed, the speed drop is ignored.

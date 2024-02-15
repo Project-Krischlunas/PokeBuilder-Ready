@@ -1,0 +1,1 @@
+Stakeout: Doubles the damage dealt to the target's replacement if the target switches out.

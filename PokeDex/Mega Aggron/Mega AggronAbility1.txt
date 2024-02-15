@@ -1,0 +1,1 @@
+Filter: Damage by super-effective moves is reduced by 25%.

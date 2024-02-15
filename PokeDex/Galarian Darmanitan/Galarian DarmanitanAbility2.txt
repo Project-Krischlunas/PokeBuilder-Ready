@@ -1,0 +1,1 @@
+Zen Mode: When Hit Points get to 50% of maximum, the Pokémon changes form. The Pokémon reverts back to its standard form if it loses this ability or returns to over 50% of its Hit Points

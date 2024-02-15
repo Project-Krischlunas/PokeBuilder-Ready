@@ -1,0 +1,1 @@
+Prankster: Status category moves have their Speed Priority increased by 1. Moves increased by this that are used on Dark-type opponents will fail.

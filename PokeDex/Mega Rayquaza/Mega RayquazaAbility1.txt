@@ -1,0 +1,1 @@
+Delta Stream: Creates the Strong Winds weather. This lasts until the Pokémon exits battle, and weakens moves used on Flying-type Pokémon that would be Super Effective

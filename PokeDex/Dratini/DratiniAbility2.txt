@@ -1,0 +1,1 @@
+Marvel Scale: Defense is increased by 50% when induced with a status (BURN, PARALYZE, SLEEP, POISON, FREEZE).

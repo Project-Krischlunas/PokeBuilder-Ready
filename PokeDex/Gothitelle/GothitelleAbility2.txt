@@ -1,0 +1,1 @@
+Competitive: Raises Sp. Atk stat by two stages whenever a stat is lowered

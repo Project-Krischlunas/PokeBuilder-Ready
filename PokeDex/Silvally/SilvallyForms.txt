@@ -1,0 +1,19 @@
+Silvally
+Silvally Fighting
+Silvally Flying
+Silvally Posion
+Silvally Ground
+Silvally Rock
+Silvally Bug
+Silvally Ghost
+Silvally Steel
+Silvally Fire
+Silvally Water
+Silvally Grass
+Silvally Electric
+Silvally Psychic
+Silvally Ice
+Silvally Dragon
+Silvally Dark
+Silvally Fairy
+-999

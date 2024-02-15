@@ -1,0 +1,30 @@
+Name:iron valiant
+Type:Fairy\Fighting
+Quark Drive: Increases the user's highest stat by 30% (or 50% for Speed) while Electric Terrain is activated or if the Booster Energy is attached
+Naughty
+HP:300
+Attak:352
+Defense:216
+Sp.Attack:339
+Sp.Defense:141
+Speed:297
+Base Total:590 
+
+You will need to put in 44 points in HP EVs
+You will need 4 HP Up and 4 Health Feather to get 300 points in HP.
+
+You will need to put in 96 points in Attack EVs
+You will need 9 Protein and 6 Muscle Feather to get 352 points in Attack.
+
+You will need to put in 0 points in Defense EVs
+You will need 0 Iron and 0 Resist Feather to get 216 points in Defense.
+
+You will need to put in 252 points in Sp.Attack EVs
+You will need 25 Calcium and 2 Genius Feather to get 339 points in Sp.Attack.
+
+You will need to put in 0 points in Sp.Defense EVs
+You will need 0 Zinc and 0 Cleaver Feather to get 141 points in Sp.Defense.
+
+You will need to put in 116 points in Speed EVs
+You will need 11 Carbos and 6 Swift Feather to get 297 points in Speed.
+

@@ -1,0 +1,1 @@
+Gooey: Lowers the opponent's Speed by one stage when it makes physical contact.

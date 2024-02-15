@@ -1,0 +1,1 @@
+Unaware: Foe’s stat modifications are ignored.

@@ -1,0 +1,1 @@
+Water Compaction: Increases Defense by 2 stages every time it is hit by a Water-type move

@@ -1,0 +1,1 @@
+Leaf Guard: Prevents the Pokémon from being afflicted by status conditions during strong sunlight.

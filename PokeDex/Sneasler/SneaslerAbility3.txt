@@ -1,0 +1,1 @@
+Poison Touch: When the Pokémon attacks its opponents with a move that causes Physical Contact, there is a 30% chance that the target is Poisoned.

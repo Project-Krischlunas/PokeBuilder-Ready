@@ -1,0 +1,30 @@
+Name:Twilight Lycanroc
+Type:Rock\
+Tough Claws: Increases the power of moves that make physical contact by 30%
+Adamant
+HP:300
+Attak:330
+Defense:200
+Sp.Attack:132
+Sp.Defense:200
+Speed:276
+Base Total:487 
+
+You will need to put in 36 points in HP EVs
+You will need 3 HP Up and 6 Health Feather to get 300 points in HP.
+
+You will need to put in 120 points in Attack EVs
+You will need 12 Protein and 0 Muscle Feather to get 330 points in Attack.
+
+You will need to put in 136 points in Defense EVs
+You will need 13 Iron and 6 Resist Feather to get 200 points in Defense.
+
+You will need to put in 0 points in Sp.Attack EVs
+You will need 0 Calcium and 0 Genius Feather to get 132 points in Sp.Attack.
+
+You will need to put in 136 points in Sp.Defense EVs
+You will need 13 Zinc and 6 Cleaver Feather to get 200 points in Sp.Defense.
+
+You will need to put in 80 points in Speed EVs
+You will need 8 Carbos and 0 Swift Feather to get 276 points in Speed.
+

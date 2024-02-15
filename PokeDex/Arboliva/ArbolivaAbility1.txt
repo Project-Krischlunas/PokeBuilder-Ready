@@ -1,0 +1,1 @@
+Seed Sower: Turns the ground into Grassy Terrain when the Pokémon is hit by an attack.

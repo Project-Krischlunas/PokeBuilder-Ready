@@ -1,0 +1,1 @@
+Unburden: Speed is doubled once the held item is consumed.

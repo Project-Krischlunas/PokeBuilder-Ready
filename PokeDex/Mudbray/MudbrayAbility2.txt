@@ -1,0 +1,1 @@
+Stamina: Boosts the Defense stat when hit by an attack.

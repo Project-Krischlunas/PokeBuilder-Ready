@@ -1,0 +1,1 @@
+Solar Power: During sunshine, the Pokémon’s Special Attack raises to 1.5 times but HP decreases by 1/8th the maximum HP every turn.

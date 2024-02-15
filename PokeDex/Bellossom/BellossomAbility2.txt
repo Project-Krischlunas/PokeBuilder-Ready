@@ -1,0 +1,1 @@
+Healer: At the end of the turn, there is a 30% chance of either Ally being healed from a status condition

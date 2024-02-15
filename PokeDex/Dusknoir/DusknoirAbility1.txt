@@ -1,0 +1,1 @@
+Pressure: When this Pokémon is hit by a move, the opponent’s PP lowers by 2 rather than 1.

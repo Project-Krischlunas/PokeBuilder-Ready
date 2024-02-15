@@ -1,0 +1,30 @@
+Name:Comfey
+Type:Fairy\
+Triage: Healing moves have +3 Priority when used by this Pokémon.
+Calm
+HP:300
+Attak:99
+Defense:279
+Sp.Attack:200
+Sp.Defense:289
+Speed:236
+Base Total:485 
+
+You will need to put in 228 points in HP EVs
+You will need 22 HP Up and 8 Health Feather to get 300 points in HP.
+
+You will need to put in 0 points in Attack EVs
+You will need 0 Protein and 0 Muscle Feather to get 99 points in Attack.
+
+You will need to put in 252 points in Defense EVs
+You will need 25 Iron and 2 Resist Feather to get 279 points in Defense.
+
+You will need to put in 0 points in Sp.Attack EVs
+You will need 0 Calcium and 0 Genius Feather to get 200 points in Sp.Attack.
+
+You will need to put in 28 points in Sp.Defense EVs
+You will need 2 Zinc and 8 Cleaver Feather to get 289 points in Sp.Defense.
+
+You will need to put in 0 points in Speed EVs
+You will need 0 Carbos and 0 Swift Feather to get 236 points in Speed.
+
